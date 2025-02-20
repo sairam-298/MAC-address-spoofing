@@ -20,4 +20,4 @@ Options:
       
 
 ## Example
-sudo python2 MAChanger.py --interface eth0 --mac 00:34:12:78:9a:bc
+sudo python2 MAC-addressing-spoofing.py --interface eth0 --mac 00:34:12:78:9a:bc
