@@ -2,7 +2,7 @@
 A Simple Python script to change your MAC address to random value or specify a new one.
 
 ## Installation
-git clone https://github.com/ozXsasson/MAChanger
+git clone https://github.com/sairam-298/MAC-address-spoofing.git
 cd MAChanger
 
 
